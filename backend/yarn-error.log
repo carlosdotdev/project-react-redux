@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init -Y
+
+PATH: 
+  C:\Python38\Scripts\;C:\Python38\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MongoDB\Server\4.2\bin;C:\Program Files\PostgreSQL\12\bin;C:\Program Files (x86)\Yarn\bin\;C:\Users\car_l\AppData\Local\Microsoft\WindowsApps;C:\Users\car_l\AppData\Roaming\npm;C:\Program Files\Oracle\VirtualBox;C:\Users\car_l\AppData\Local\GitHubDesktop\bin;C:\Users\car_l\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.22.0
+
+Node version: 
+  13.5.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:136987:13)
+      at Interface.emit (events.js:305:20)
+      at Interface._ttyWrite (readline.js:882:16)
+      at ReadStream.onkeypress (readline.js:199:10)
+      at ReadStream.emit (events.js:305:20)
+      at emitKeys (internal/readline/utils.js:439:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1150:36)
+      at ReadStream.emit (events.js:305:20)
+      at addChunk (_stream_readable.js:341:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
